@@ -1,0 +1,131 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5389BD13-788F-4B1E-A973-C7FECEA3ED0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 320,
+    "x": 0,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "makerPage / topMakerInfo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "310A4703-1ED6-45A9-860F-05F4E0F466E0_stringValue",
+      "value": "유저닉네임"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3FDADD3F-4E1F-4F9B-A668-B59661A35DAE/C29B9B23-D5A2-4565-97D6-14A4AE1B264B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0f236d3840ac336ba1ef8fb4ef5110a80081d616.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "471B7984-4FB1-4BC1-9BEF-2C1815525E3C/611E2DD7-03C7-44FA-B84B-78C65F26BFD5/DC7FFEC5-7BF7-4F4E-8466-E9490B3B8809_stringValue",
+      "value": "프로필 수정"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B6D990A-A134-44A0-9BD5-B7BAA0267A91_stringValue",
+      "value": "유저의 한 줄 소개는 최대 2줄까지 보여지며, 이후로는 ellipsis 처리됩니다(60자 제한)."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21A3B6B1-A998-48C5-98C2-BF80BB40A548/565CFE4D-5A28-4C9B-A617-2958213D4E20_stringValue",
+      "value": "21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21A3B6B1-A998-48C5-98C2-BF80BB40A548/2367B7DF-967C-4331-A401-2D4E60604B92_stringValue",
+      "value": "364"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1B753665-CB32-45A4-8CBF-DA39383C3F1F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CEA72A9-1DA8-47F2-B8C9-3AC0EDA6174E",
+  "verticalSpacing": 0
+}

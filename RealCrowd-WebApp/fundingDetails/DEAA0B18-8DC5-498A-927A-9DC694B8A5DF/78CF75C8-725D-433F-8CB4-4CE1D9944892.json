@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78CF75C8-725D-433F-8CB4-4CE1D9944892",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 684,
+    "width": 320,
+    "x": 0,
+    "y": -314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "fundingDetails / top",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DC84091-32F0-4C74-948B-CB2CB818105C/60774055-AA7F-448C-B860-E9DD96D15418_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "107E95EE-0607-4D3A-AA7E-AC0110728551_symbolID",
+      "value": "DC0DA63A-3774-4981-8C79-3AE46B72ADCF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E21D22F-AE4B-4D53-A804-AD951BE79988/ACA27069-0F15-461B-A403-5933D35FAA60_stringValue",
+      "value": "761,000원"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E21D22F-AE4B-4D53-A804-AD951BE79988/0F3C8586-FC9E-4EA4-BAA9-A3C1099E6F46_stringValue",
+      "value": "0분"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3E21D22F-AE4B-4D53-A804-AD951BE79988/88E5089A-2EE5-4236-A361-5B1BE7A454E3_stringValue",
+      "value": "92명"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1E81E5C-0248-409C-9412-D364801D0DE9/611E2DD7-03C7-44FA-B84B-78C65F26BFD5_symbolID",
+      "value": "33D59BB9-7BF6-47C8-A6DF-E8F827704AC0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1E81E5C-0248-409C-9412-D364801D0DE9/611E2DD7-03C7-44FA-B84B-78C65F26BFD5/86D257B1-4919-4305-A6E5-998855739533_stringValue",
+      "value": "후원이 마감되었습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3D700C4-6511-4286-8487-37C6D34155B2_symbolID",
+      "value": "60AD65D8-5071-4440-9F86-62BAFEFCDF67"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8632219A-745F-474D-B328-642569B87529",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3DAB372-B0D5-45D7-AD9B-D8B68C080109",
+  "verticalSpacing": 0
+}
