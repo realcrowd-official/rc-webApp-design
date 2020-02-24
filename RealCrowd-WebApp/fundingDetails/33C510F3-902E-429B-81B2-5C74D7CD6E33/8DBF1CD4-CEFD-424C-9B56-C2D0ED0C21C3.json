@@ -47,12 +47,12 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "22606A1C-2726-4D73-9F9F-F145349E0F1F_symbolID",
-      "value": ""
+      "overrideName": "B2D55349-298C-4DCD-ABB0-5D2EDC0AFECD_symbolID",
+      "value": "33D59BB9-7BF6-47C8-A6DF-E8F827704AC0"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "B2D55349-298C-4DCD-ABB0-5D2EDC0AFECD/DC7FFEC5-7BF7-4F4E-8466-E9490B3B8809_stringValue",
+      "overrideName": "B2D55349-298C-4DCD-ABB0-5D2EDC0AFECD/86D257B1-4919-4305-A6E5-998855739533_stringValue",
       "value": "다음 단계로"
     }
   ],
@@ -93,7 +93,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.38
+      "opacity": 1
     },
     "do_objectID": "2AF8D32F-B143-4DAF-A708-51C0E2B7D925",
     "endMarkerType": 0,

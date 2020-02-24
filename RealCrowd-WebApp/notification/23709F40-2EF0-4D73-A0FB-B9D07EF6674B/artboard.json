@@ -61,6 +61,14 @@
     {
       "class": "symbolInstance",
       "id": "4688CC59-6932-419F-AE3F-088A8AACF78E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2014479C-11D1-419F-A78B-B307C98A06E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "609EDFDC-3D55-41BD-8F3E-2742526903A6"
     }
   ],
   "name": "notification / basic",

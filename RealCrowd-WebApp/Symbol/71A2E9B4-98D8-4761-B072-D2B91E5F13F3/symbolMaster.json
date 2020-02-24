@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5013,
+  "changeIdentifier": 5125,
   "clippingMaskMode": 0,
   "do_objectID": "71A2E9B4-98D8-4761-B072-D2B91E5F13F3",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "height": 176,
     "width": 320,
     "x": 6526,
-    "y": -484
+    "y": -363
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -66,8 +66,12 @@
       "id": "72C350E3-DB9A-4F67-8102-86B5DC015C0A"
     },
     {
-      "class": "text",
-      "id": "0D3A2863-D6CE-4537-9D89-BC83C384AA39"
+      "class": "symbolInstance",
+      "id": "86BFB626-955C-4FD1-9731-8063C590F982"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9991AF3B-D85F-4DB9-9FDE-467CC07DF084"
     },
     {
       "class": "text",
@@ -79,16 +83,21 @@
     },
     {
       "class": "symbolInstance",
-      "id": "86BFB626-955C-4FD1-9731-8063C590F982"
+      "id": "EEF2B5AF-B236-488C-B8F2-DD5AD4E02627"
     },
     {
-      "class": "symbolInstance",
-      "id": "9991AF3B-D85F-4DB9-9FDE-467CC07DF084"
+      "class": "text",
+      "id": "0D3A2863-D6CE-4537-9D89-BC83C384AA39"
     }
   ],
   "name": "settings / addressList / each",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EEF2B5AF-B236-488C-B8F2-DD5AD4E02627_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

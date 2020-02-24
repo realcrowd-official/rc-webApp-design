@@ -27,7 +27,7 @@
     "height": 48,
     "width": 320,
     "x": 0,
-    "y": 528
+    "y": 400
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -48,10 +48,10 @@
     {
       "_class": "overrideValue",
       "overrideName": "DA4F7EE8-CF18-4C25-A762-D41DBFA286AD_stringValue",
-      "value": "배송지 저장"
+      "value": "기본 배송지로 설정"
     }
   ],
-  "resizingConstraint": 10,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

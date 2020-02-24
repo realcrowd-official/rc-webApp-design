@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
+    "height": 128,
     "width": 320,
     "x": 0,
-    "y": 384
+    "y": 750
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,8 +37,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "checkout / paymentMethods",
-  "nameIsFixed": false,
+  "name": "checkout / paymentMethods / basic",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

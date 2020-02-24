@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "받으실 분"
+    "string": "현대카드"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,7 +65,7 @@
     "x": 16,
     "y": 8
   },
-  "glyphBounds": "{{0, 4}, {55, 14}}",
+  "glyphBounds": "{{0, 4}, {51, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -37,8 +37,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "misc / base / square / primary-16",
-  "nameIsFixed": false,
+  "name": "misc / base / square / primary-08",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 18,
@@ -92,6 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8462293E-FEEC-45FA-94C5-FCBA5951B4AA",
+  "symbolID": "9919059B-C03A-43C9-9DBF-7B5CCDB4A234",
   "verticalSpacing": 0
 }

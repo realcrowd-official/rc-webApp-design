@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4964,
+  "changeIdentifier": 5476,
   "clippingMaskMode": 0,
   "do_objectID": "69AEBB2F-645E-4D3C-B624-EA189E5C5004",
   "exportOptions": {
@@ -33,10 +33,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 592,
+    "height": 464,
     "width": 320,
-    "x": 5266,
-    "y": 1539
+    "x": 6526,
+    "y": -87
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -67,15 +67,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "4AB7F8A0-FDEF-4C8C-9E2B-18C6381D2C7E"
-    },
-    {
-      "class": "symbolInstance",
       "id": "16713897-2915-4078-AB1A-A9C5315BD580"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CA908955-8810-410B-81E5-6644A1453A77"
     },
     {
       "class": "symbolInstance",
@@ -94,14 +86,9 @@
       "id": "B5180600-23CD-4035-9667-88C03D351219"
     }
   ],
-  "name": "checkout / shippingInfo",
+  "name": "settings / addressList / addNewAddress",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CA908955-8810-410B-81E5-6644A1453A77_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -111,11 +98,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "90242B5F-2652-4048-B2D9-ABE3E3DC9834_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4AB7F8A0-FDEF-4C8C-9E2B-18C6381D2C7E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

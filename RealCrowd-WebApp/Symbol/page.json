@@ -41,6 +41,10 @@
   "layers": [
     {
       "class": "symbolMaster",
+      "id": "1C7458D5-4BE4-4A09-A8C2-B5E64988FA6C"
+    },
+    {
+      "class": "symbolMaster",
       "id": "CB8485FD-071C-4FA2-8133-1689BEACBF8B"
     },
     {
@@ -154,6 +158,10 @@
     {
       "class": "symbolMaster",
       "id": "AAF2A6B1-0626-4ABE-BF33-92FB1009F7BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B40303F7-F8BA-4E80-A2CA-185468511FA6"
     },
     {
       "class": "symbolMaster",
@@ -341,6 +349,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "DEC8155D-9C2A-4C62-ADD5-BC1DA3DDF4F7"
+    },
+    {
+      "class": "symbolMaster",
       "id": "2C53C245-23F1-4026-BB94-1049D978A477"
     },
     {
@@ -357,7 +369,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "A88DA53A-7712-45E9-9B76-4D0378C461C1"
+    },
+    {
+      "class": "symbolMaster",
       "id": "69AEBB2F-645E-4D3C-B624-EA189E5C5004"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FD80AF0F-A2B9-44F7-BB8F-A50F7E759CD5"
     },
     {
       "class": "symbolMaster",
@@ -373,15 +393,19 @@
     },
     {
       "class": "symbolMaster",
-      "id": "16FF43EE-40B3-4CF5-9C5A-CA169319DA57"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1D156DE2-A26B-402E-8F2A-D24C0226B898"
-    },
-    {
-      "class": "symbolMaster",
       "id": "4AA822FF-A8B7-4ECA-9CB1-6F26F16BCDD1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4B3D3E9A-FA12-45CA-9190-63315856FAC0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4654310E-A5E4-4B21-9B3C-EF8BA94F3DDA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0BA00082-7251-437B-B334-83678A18A15F"
     },
     {
       "class": "symbolMaster",
@@ -397,7 +421,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "8478A9B2-0420-46D7-894F-293E41E9E143"
+    },
+    {
+      "class": "symbolMaster",
       "id": "71A2E9B4-98D8-4761-B072-D2B91E5F13F3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "08808275-AC69-4156-B52E-CD7202444F46"
     },
     {
       "class": "symbolMaster",
@@ -730,6 +762,14 @@
     {
       "class": "symbolMaster",
       "id": "0DE204C2-A193-4D48-9CAE-07160F2D1BF2"
+    },
+    {
+      "class": "rectangle",
+      "id": "386B0FC6-BD76-4EA6-A3A2-4739EE3E066B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA908955-8810-410B-81E5-6644A1453A77"
     }
   ],
   "name": "Symbol",

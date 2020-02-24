@@ -60,11 +60,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0013C6C4-744D-47BB-90AD-56F68F44290C"
+      "id": "7318B165-3A3A-41C0-B10E-527F84DA9042"
     },
     {
       "class": "symbolInstance",
-      "id": "7318B165-3A3A-41C0-B10E-527F84DA9042"
+      "id": "0013C6C4-744D-47BB-90AD-56F68F44290C"
     }
   ],
   "name": "myPage / settings / addressList / empty",

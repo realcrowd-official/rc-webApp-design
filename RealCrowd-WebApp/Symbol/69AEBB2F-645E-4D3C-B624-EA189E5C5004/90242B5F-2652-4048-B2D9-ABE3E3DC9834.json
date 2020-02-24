@@ -33,7 +33,7 @@
     "height": 96,
     "width": 320,
     "x": 0,
-    "y": 240
+    "y": 200
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,6 +55,11 @@
       "_class": "overrideValue",
       "overrideName": "3BA5D53B-137D-4702-842E-6E01142ED974_stringValue",
       "value": "우편번호 검색"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE326643-3DD6-4ADC-992F-E6A2553C14F6_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 10,

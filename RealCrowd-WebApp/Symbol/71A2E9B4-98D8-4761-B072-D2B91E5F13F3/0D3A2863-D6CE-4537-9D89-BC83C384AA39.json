@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "받으실 분"
+    "string": "홍길동"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -61,11 +61,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 288,
+    "width": 39,
     "x": 16,
     "y": 8
   },
-  "glyphBounds": "{{0, 4}, {55, 14}}",
+  "glyphBounds": "{{0, 4}, {39, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -154,5 +154,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

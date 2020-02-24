@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 568,
     "width": 320,
-    "x": 700,
+    "x": 280,
     "y": -471
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,7 +60,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "14BCB194-ACB6-480B-836B-7939FA8DB522"
+      "id": "504C1BBB-F1ED-49F0-8A62-54DC27B28265"
     },
     {
       "class": "symbolInstance",
@@ -79,7 +79,7 @@
       "id": "AE85CCAE-8AA6-4E6D-ADC2-E0F113A7774F"
     }
   ],
-  "name": "checkout / error / maxQty",
+  "name": "checkout / error / address",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

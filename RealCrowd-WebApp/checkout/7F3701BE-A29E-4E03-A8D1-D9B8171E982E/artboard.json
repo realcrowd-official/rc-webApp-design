@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 568,
     "width": 320,
-    "x": 1540,
+    "x": 1120,
     "y": -471
   },
   "groupLayout": {
@@ -60,11 +60,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "9E9A6AF3-303E-4C09-B0E3-953940D32D52"
+      "id": "9F74A14A-A09D-4292-92F7-86D59FF05988"
     },
     {
       "class": "symbolInstance",
-      "id": "9F74A14A-A09D-4292-92F7-86D59FF05988"
+      "id": "9E9A6AF3-303E-4C09-B0E3-953940D32D52"
     },
     {
       "class": "symbolInstance",

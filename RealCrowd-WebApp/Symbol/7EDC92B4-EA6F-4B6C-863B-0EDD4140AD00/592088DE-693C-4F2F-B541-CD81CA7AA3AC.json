@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 40,
     "width": 320,
     "x": 0,
     "y": 0
@@ -43,7 +43,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "AF7A6773-2EA0-4922-8C33-FFFA0E38E04E_stringValue",
-      "value": "결제수단 선택"
+      "value": "결제수단 설정"
     }
   ],
   "resizingConstraint": 10,

@@ -48,11 +48,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "22606A1C-2726-4D73-9F9F-F145349E0F1F_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "284F98C2-DD5B-49BC-B26F-55929F10E87D_stringValue",
       "value": "다음 단계로"
     },
